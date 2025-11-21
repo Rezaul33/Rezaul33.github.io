@@ -21,7 +21,6 @@
             <img src="images/profile.jpg" alt="Rezaul Islam" class="header-profile-img">
             <span>Rezaul Islam</span>
             </div>
-            <div class="logo">Rezaul Islam</div>
             <ul class="nav-links">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About</a></li>
@@ -50,54 +49,118 @@
 
     <!-- About Section -->
     <section id="about" class="about">
-    <h2>About Me</h2>
-    <div class="about-container">
-        <div class="about-text">
-            <p>I'm a Data Scientist and AI enthusiast focused on transforming complex data into clear, actionable insights. With a strong foundation in computer science and a postgraduate degree in data science, I work across machine learning, deep learning, NLP, and Generative AI to build practical, scalable solutions.</p>
-            <p>My expertise spans stock forecasting, object detection, chatbots, and end-to-end predictive modeling. I value clean, reproducible code and enjoy exploring new techniques to extract meaningful value from data.</p>
-            <p>I'm also active in AI communities, mentoring and collaborating with professionals who share a passion for data-driven innovation. If you're working on a challenging data problem or looking to build intelligent systems, I'm always open to connecting.</p>
-        </div>
-        <div class="skills">
-            <h3>Skills</h3>
-            <div class="skill-tags">
-                <span>Machine Learning</span>
-                <span>Deep Learning</span>
-                <span>Python</span>
-                <span>NLP</span>
-                <span>Generative AI</span>
-                <span>Data Analysis</span>
-                <span>Computer Vision</span>
-                <span>Predictive Modeling</span>
-                <span>TensorFlow</span>
-                <span>PyTorch</span>
-                <span>Pandas</span>
-                <span>NumPy</span>
+        <div class="about-wrapper">
+            <h2>About Me</h2>
+            <p class="about-intro">Data Scientist & AI Enthusiast | Turning Complex Data Into Actionable Insights</p>
+            
+            <div class="about-container">
+                <div class="about-text">
+                    <div class="about-paragraph">
+                        <h3>Who I Am</h3>
+                        <p>I'm a Data Scientist and AI enthusiast focused on transforming complex data into clear, actionable insights. With a strong foundation in computer science and a postgraduate degree in data science, I work across machine learning, deep learning, NLP, and Generative AI to build practical, scalable solutions.</p>
+                    </div>
+                    
+                    <div class="about-paragraph">
+                        <h3>What I Do</h3>
+                        <p>My expertise spans stock forecasting, object detection, chatbots, and end-to-end predictive modeling. I value clean, reproducible code and enjoy exploring new techniques to extract meaningful value from data.</p>
+                    </div>
+                    
+                    <div class="about-paragraph">
+                        <h3>My Passion</h3>
+                        <p>I'm active in AI communities, mentoring and collaborating with professionals who share a passion for data-driven innovation. If you're working on a challenging data problem or looking to build intelligent systems, I'm always open to connecting.</p>
+                    </div>
+                </div>
+                
+                <div class="skills-section">
+                    <div class="skill-categories">
+                        <div class="skill-category">
+                            <h4>Machine Learning</h4>
+                            <div class="skill-tags">
+                                <span>Deep Learning</span>
+                                <span>Predictive Modeling</span>
+                                <span>Image Classification</span>
+                                <span>Object Detection</span>
+                                <span>NLP</span>
+                            </div>
+                        </div>
+                        
+                        <div class="skill-category">
+                            <h4>Specializations</h4>
+                            <div class="skill-tags">
+                                <span>Time Series Forecasting</span>
+                                <span>Computer Vision</span>
+                                <span>Data Visualization</span>
+                                <span>Generative AI</span>
+                            </div>
+                        </div>
+                        
+                        <div class="skill-category">
+                            <h4>Tools & Libraries</h4>
+                            <div class="skill-tags">
+                                <span>Python</span>
+                                <span>TensorFlow</span>
+                                <span>PyTorch</span>
+                                <span>Pandas</span>
+                                <span>Scikit-Learn</span>
+                                <span>OpenCV</span>
+                                <span>Streamlit</span>
+                                <span>Power BI</span>
+                                <span>Docker</span>
+                                <span>MySQL</span>
+                            </div>
+                        </div>
+                        
+                        <div class="skill-category">
+                            <h4>Data & Analysis</h4>
+                            <div class="skill-tags">
+                                <span>EDA</span>
+                                <span>Time Series Analysis</span>
+                                <span>Sentiment Analysis</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
-</section>
+    </section>
 
     <!-- Projects Section -->
     <section id="projects" class="projects">
-    <div class="project-grid">
-        <div class="project-card">
-            <img src="images\Projects\Streamlit App Housing Price Prediction with machine learning\Housing price prediction dashboard.png" alt="Project 1">
-            <h3>CaliforniaHousePredict Interactive California Housing Price Prediction App</h3>
-            <p>Built an end-to-end California Housing Price Prediction app using Python, Streamlit, and Docker, featuring data cleaning, feature engineering, and a trained Random Forest model. The app allows interactive user input for real-time price prediction with a seamless UI and deployable Docker environment.</p>
-            <div class="project-links">
-                <a href="https://github.com/Rezaul33/Capstone-Project-End-to-End-Exploratory-Data-analysis-on-California-Housing-Price" target="_blank">GitHub</a>
+        <div class="projects-wrapper">
+            <h2>Featured Projects</h2>
+            <p class="projects-intro">Showcasing end-to-end data science solutions</p>
+            
+            <div class="project-grid">
+                <div class="project-card">
+                    <div class="project-image-wrapper">
+                        <img src="images\Projects\Streamlit App Housing Price Prediction with machine learning\Housing price prediction dashboard.png" alt="California Housing Price Prediction">
+                        <div class="project-overlay">
+                            <a href="https://github.com/Rezaul33/Capstone-Project-End-to-End-Exploratory-Data-analysis-on-California-Housing-Price" target="_blank" class="project-btn">View on GitHub</a>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3>California Housing Price Prediction</h3>
+                        <p class="project-tech">Python • Streamlit • Docker • Random Forest</p>
+                        <p>End-to-end machine learning application for predicting California housing prices. Features comprehensive data cleaning, feature engineering, and an interactive UI for real-time predictions with a deployable Docker environment.</p>
+                    </div>
+                </div>
+                
+                <div class="project-card">
+                    <div class="project-image-wrapper">
+                        <img src="images\Projects\PowerBi Dashboard\Child Nutrition & Health Monitoring Dashboard on Power BI.png" alt="Child Nutrition & Health Monitoring">
+                        <div class="project-overlay">
+                            <a href="https://github.com/Rezaul33/Child-Nutrition-and-health-Monitoring-Dashboard-on-Power-Bi" target="_blank" class="project-btn">View on GitHub</a>
+                        </div>
+                    </div>
+                    <div class="project-content">
+                        <h3>Child Nutrition & Health Monitoring</h3>
+                        <p class="project-tech">Power BI • Python • APIs • Machine Learning</p>
+                        <p>Interactive Power BI dashboard integrating real-time data with geography and weather APIs. Deployed Random Forest model for health predictions, enabling data-driven insights for tracking nutrition trends and identifying critical cases.</p>
+                    </div>
+                </div>
             </div>
         </div>
-        <div class="project-card">
-            <img src="images\Projects\PowerBi Dashboard\Child Nutrition & Health Monitoring Dashboard on Power BI.png" alt="Project 2">
-            <h3>Child Nutrition & health Monitoring Dashboard on Power Bi</h3>
-            <p>Developed an interactive Power BI dashboard to monitor child nutrition and health, integrating cleaned data, real-time geography, and weather via APIs. A Random Forest model was deployed for prediction, helping track health trends, identify severe cases, and inform crisis response.</p>
-            <div class="project-links">
-                <a href="https://github.com/Rezaul33/Child-Nutrition-and-health-Monitoring-Dashboard-on-Power-Bi" target="_blank">GitHub</a>
-            </div>
-        </div>
-    </div>
-</section>
+    </section>
 
     <!-- Contact Section -->
     <section id="contact" class="contact">
