@@ -38,8 +38,8 @@ Interactive Power BI dashboard with real-time data integration and health predic
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-rezaul-islam-cse/)
+- 📧 Email: rezaul.islam.da@gmail.com
 - 🌐 [Portfolio](https://rezaul33.github.io)
 
 ## 📄 License
@@ -49,6 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Rezaul Islam</p>
+  <p>Made with ❤️ by [Rezaul Islam](https://www.linkedin.com/in/md-rezaul-islam-cse/)</p>
   <p>Last updated: November 2025</p>
+
 </div>
