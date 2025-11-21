@@ -285,7 +285,7 @@ nav {
 
 .tagline {
     font-size: 1.5rem;
-    color: var(--text-light);
+    color: var(--light-text);  /* Changed from --text-light to --light-text */
     margin-bottom: 2rem;
 }
 
@@ -672,6 +672,14 @@ footer {
     .tagline {
         font-size: 1.3rem;
     }
+    .about-container {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+    
+    .skills-section {
+        margin-top: 2rem;
+    }
 }
 
 /* Responsive Design */
@@ -679,33 +687,27 @@ footer {
     .hamburger {
         display: block;
     }
-
-    .header-profile-img {
-        width: 32px;
-        height: 32px;
-    }
-
+    
     .nav-links {
         position: fixed;
         top: 80px;
         left: -100%;
         width: 100%;
         height: calc(100vh - 80px);
-        background-color: var(--card-bg);
+        background-color: var(--background);
         flex-direction: column;
         align-items: center;
-        padding: 2rem 0;
+        justify-content: center;
         transition: var(--transition);
         z-index: 999;
-        gap: 1.5rem;
     }
-
+    
     .nav-links.active {
         left: 0;
     }
-
+    
     .nav-links li {
-        list-style: none;
+        margin: 1rem 0;
     }
 
     .nav-links a {
@@ -716,9 +718,9 @@ footer {
     .hero h1 {
         font-size: 2.2rem;
     }
-
+    
     .tagline {
-        font-size: 1.1rem;
+        font-size: 1.2rem;
     }
 
     .profile-img {
@@ -778,7 +780,7 @@ footer {
     .hero h1 {
         font-size: 1.8rem;
     }
-
+    
     .tagline {
         font-size: 1rem;
     }
@@ -795,7 +797,7 @@ footer {
 
     .cta-button {
         padding: 0.7rem 1.5rem;
-        font-size: 0.95rem;
+        font-size: 0.9rem;
     }
 
     h1 {
