@@ -36,6 +36,38 @@ Interactive Power BI dashboard with real-time data integration and health predic
 - **Technologies**: Power BI, Python, APIs, Machine Learning
 - [View on GitHub](https://github.com/Rezaul33/Child-Nutrition-and-health-Monitoring-Dashboard-on-Power-Bi)
 
+## 📚 Research & Publications
+
+### 1. Enhancing Game Usability: A Framework for Small-to-Medium-Sized Game Development Businesses
+- **Publisher**: Scitepress
+- **Publication Date**: Jan 2023
+- **Link**: https://www.scitepress.org/Link.aspx?doi=10.5220/0012086500003538
+- **Summary**: This study addresses game usability for small studios in Bangladesh, proposing twelve heuristics based on Nielsen’s principles to help developers identify and prevent common usability issues during game development.
+
+### 2. Renewable Energy Optimization: The Role of Solar Tracking Systems
+- **Publisher**: IEEE
+- **Publication Date**: Aug 2023
+- **Link**: https://ieeexplore.ieee.org/document/10392013/
+- **Summary**: This paper proposes a low-power single-axis solar tracking system that increases solar panel efficiency by improving energy output under varying conditions compared to fixed panels.
+
+### 3. Green Computing Adoption: Understanding the Role of Individual, Social, and Organizational Factors
+- **Publisher**: Scitepress
+- **Publication Date**: Jan 2024
+- **Link**: https://www.scitepress.org/Link.aspx?doi=10.5220/0012689400003687
+- **Summary**: This study examines factors affecting Bangladeshi IT professionals’ attitudes toward Green IT, showing how awareness, knowledge, and perceptions influence green computing practices, and highlights sustainable IT adoption in software firms.
+
+### 4. Project Governance to Improve the Performance of Software Projects by Mitigating the Software Risk Factors: The Moderating Role of Project Leadership
+- **Publisher**: Elsevier
+- **Publication Date**: Jan 2024
+- **Link**: https://www.sciencedirect.com/science/article/pii/S1877050924016120?via%3Dihub#keys0001
+- **Summary**: This study finds that project governance improves Bangladeshi software project performance by reducing risk factors, while effective project leadership strengthens this effect.
+
+### 5. Overcoming Obstacles in Model-Driven Engineering: Lessons from the Software Industry
+- **Publisher**: Scitepress
+- **Publication Date**: May 2024
+- **Link**: https://www.scitepress.org/Link.aspx?doi=10.5220/0012805800003753
+- **Summary**: This study surveys Bangladesh’s software industry on Model-Driven Engineering, finding many teams use system modeling and reporting efficiency gains, and suggests training/documentation/scalability improvements to boost adoption.
+
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
