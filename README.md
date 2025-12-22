@@ -70,8 +70,8 @@ Interactive Power BI dashboard with real-time data integration and health predic
 
 ## 📫 Get in Touch
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/md-rezaul-islam-cse/))
+- 📧 Email: rezaul.islam.da@gmail.com
 - 🌐 [Portfolio](https://rezaul33.github.io)
 
 ## 📄 License
